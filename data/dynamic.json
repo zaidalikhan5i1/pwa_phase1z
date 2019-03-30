@@ -1,0 +1,30 @@
+{
+  "profile":{
+    "image":"images/image1.jpg",
+    "name":"zaid",
+    "email":"123@gmail.com",
+    "phno" : "123456"
+  },
+"career":{
+  "info":"to seek challenging poisition"
+},
+
+"Education":[
+  {
+  "Sno":"1","Name":"zaid","Institute":"Sacred Heart school","Percentage":"97%"
+},
+{
+
+  "Sno":"2","Name":"zaid","Institute":"Sacred Heart Junior Collage","Percentage":"96%"
+},
+{
+  "Sno":"3","Name":"zaid","Institute":"Sacred Heart University","Percentage":"85%"
+}
+],
+
+"skills":{
+  "name":"app development",
+  "languages":["html","css","python","java"]
+}
+
+}
